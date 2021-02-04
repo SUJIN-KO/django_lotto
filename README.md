@@ -1,1 +1,2 @@
-# django_lotto
+## django_lotto
+### LikeLionAi 실습을 위한 
